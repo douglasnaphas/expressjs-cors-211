@@ -1,0 +1,37 @@
+{
+  "name": "expressjs-cors-211",
+  "version": "1.0.0",
+  "description": "Assist with expressjs/cors issue 211",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jest": "^26.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasnaphas/expressjs-cors-211.git"
+  },
+  "keywords": [
+    "[\"express\"",
+    "\"cors\"",
+    "\"expressjs\"]"
+  ],
+  "author": "Douglas Naphas <douglasnaphas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douglasnaphas/expressjs-cors-211/issues"
+  },
+  "homepage": "https://github.com/douglasnaphas/expressjs-cors-211#readme"
+}
